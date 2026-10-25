@@ -1,0 +1,17 @@
+# Python virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Local editor settings
+.vscode/
+
+# Network capture files
+data/*.pcap
+data/*.pcapng
+
+# Generated reports
+reports/
